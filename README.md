@@ -4,10 +4,10 @@ CLI for Bangladesh Railway's Ticketing System
 
 ## Motivation
 
-* [Bangladesh Railway's Ticketing System](https://www.esheba.cnsbd.com/#/) is maintained by Computer Network Systems Limited (CNS)
-* Recently they revamped the whole website and exposed some backend APIs
-* Users no longer need to be logged in to check seat availablity
-* Why not build a Python client to do that?
+* [Bangladesh Railway's Ticketing System](https://www.esheba.cnsbd.com/#/) is maintained by Computer Network Systems Limited (CNS) :roll_eyes:
+* Recently they revamped the whole website and exposed some backend APIs :partying_face:
+* Users no longer need to be logged in to check seat availablity :grimacing:
+* Why not build a Python client to do that? :sunglasses:
 
 ## Installation
 
